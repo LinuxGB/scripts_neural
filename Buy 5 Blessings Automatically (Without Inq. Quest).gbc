@@ -1,0 +1,1328 @@
+<?xml version="1.0"?>
+<P0 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <P1>
+    <W0>
+      <W1>𝗦𝗘𝗧 𝗖𝗮𝘃𝗲𝗯𝗼𝘁 𝗢𝗙𝗙</W1>
+      <W1>𝗦𝗘𝗧 𝗧𝗮𝗿𝗴𝗲𝘁𝗶𝗻𝗴 𝗢𝗡</W1>
+    </W0>
+    <W2>
+      <W3>𝗦𝗘𝗧 𝗖𝗮𝘃𝗲𝗯𝗼𝘁 𝗢𝗡</W3>
+      <W3>𝗦𝗘𝗧 𝗧𝗮𝗿𝗴𝗲𝘁𝗶𝗻𝗴 𝗢𝗙𝗙</W3>
+    </W2>
+    <W4>true</W4>
+    <W5>false</W5>
+    <W6>false</W6>
+    <W7>true</W7>
+    <W8>true</W8>
+    <W9>false</W9>
+    <X0>false</X0>
+    <X1>true</X1>
+    <X2>0</X2>
+    <X3>0</X3>
+    <X4>1</X4>
+    <X5>0</X5>
+    <X6>0</X6>
+    <X7>0</X7>
+  </P1>
+  <P2>
+    <V1>None</V1>
+    <V2>None</V2>
+    <V3>None</V3>
+    <V4>None</V4>
+    <V5>None</V5>
+    <V6>Key_9</V6>
+    <V6B>None</V6B>
+    <V7C>1000</V7C>
+    <V8>5</V8>
+    <V8A>25</V8A>
+    <V8B>false</V8B>
+    <V8C>Insert</V8C>
+    <V8D>0</V8D>
+  </P2>
+  <P3>
+    <P4>
+      <S9>NPC Norf</S9>
+      <T0>NPC_Follow</T0>
+      <T1 />
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B />
+      <U5B>Norf</U5B>
+    </P4>
+    <P4>
+      <S9>Spiritual</S9>
+      <T0>NpcCustom</T0>
+      <T1>
+        <T2>hi</T2>
+        <T2>blessings</T2>
+        <T2>spiritual</T2>
+        <T2>yes</T2>
+      </T1>
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B />
+      <U5B />
+    </P4>
+    <P4>
+      <S9>Off PauseResume</S9>
+      <T0>EnablerDisabler</T0>
+      <T1 />
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B>
+        <U4B>
+          <S6B>10</S6B>
+          <S7B>0</S7B>
+        </U4B>
+      </U3B>
+      <U5B />
+    </P4>
+    <P4>
+      <S9>Go Edron</S9>
+      <T0>NpcCustom</T0>
+      <T1>
+        <T2>hi</T2>
+        <T2>edron</T2>
+        <T2>yes</T2>
+      </T1>
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B />
+      <U5B />
+    </P4>
+    <P4>
+      <S9>Go Cormaya</S9>
+      <T0>NpcCustom</T0>
+      <T1>
+        <T2>hi</T2>
+        <T2>cormaya</T2>
+        <T2>yes</T2>
+      </T1>
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B />
+      <U5B />
+    </P4>
+    <P4>
+      <S9>Go Eremo</S9>
+      <T0>NpcCustom</T0>
+      <T1>
+        <T2>hi</T2>
+        <T2>eremo</T2>
+        <T2>yes</T2>
+      </T1>
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B />
+      <U5B />
+    </P4>
+    <P4>
+      <S9>Follow_Eremo</S9>
+      <T0>NPC_Follow</T0>
+      <T1 />
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B />
+      <U5B>Eremo</U5B>
+    </P4>
+    <P4>
+      <S9>Solitude</S9>
+      <T0>NpcCustom</T0>
+      <T1>
+        <T2>hi</T2>
+        <T2>blessings</T2>
+        <T2>solitude</T2>
+        <T2>yes</T2>
+        <T2>cormaya</T2>
+        <T2>yes</T2>
+      </T1>
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B />
+      <U5B />
+    </P4>
+    <P4>
+      <S9>Go Kazordoon</S9>
+      <T0>NpcCustom</T0>
+      <T1>
+        <T2>hi</T2>
+        <T2>kazordoon</T2>
+        <T2>yes</T2>
+      </T1>
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B />
+      <U5B />
+    </P4>
+    <P4>
+      <S9>Buy Ticket</S9>
+      <T0>NpcCustom</T0>
+      <T1>
+        <T2>hi</T2>
+        <T2>ticket</T2>
+        <T2>yes</T2>
+      </T1>
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B />
+      <U5B />
+    </P4>
+    <P4>
+      <S9>Phoenix 1</S9>
+      <T0>NpcCustom</T0>
+      <T1>
+        <T2>hi</T2>
+        <T2>blessings</T2>
+        <T2>phoenix</T2>
+        <T2>yes</T2>
+      </T1>
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B />
+      <U5B />
+    </P4>
+    <P4>
+      <S9>Suns</S9>
+      <T0>NpcCustom</T0>
+      <T1>
+        <T2>hi</T2>
+        <T2>blessings</T2>
+        <T2>suns</T2>
+        <T2>yes</T2>
+      </T1>
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B />
+      <U5B />
+    </P4>
+    <P4>
+      <S9>Follow</S9>
+      <T0>NPC_Follow</T0>
+      <T1 />
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B />
+      <U5B>Humphrey</U5B>
+    </P4>
+    <P4>
+      <S9>Embrace</S9>
+      <T0>NpcCustom</T0>
+      <T1>
+        <T2>hi</T2>
+        <T2>blessings</T2>
+        <T2>embrace</T2>
+        <T2>yes</T2>
+      </T1>
+      <T3 />
+      <T5 />
+      <T7 />
+      <T9 />
+      <U1 />
+      <U3 />
+      <U5>0</U5>
+      <U3B />
+      <U5B />
+    </P4>
+  </P3>
+  <P5>
+    <P6>
+      <AA2>1</AA2>
+      <AA3>593</AA3>
+      <AA4>1247</AA4>
+      <AA5>7</AA5>
+      <AA6>Script</AA6>
+      <AA7>Off PauseResume</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>2</AA2>
+      <AA3>594</AA3>
+      <AA4>1291</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>3</AA2>
+      <AA3>569</AA3>
+      <AA4>1334</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>4</AA2>
+      <AA3>531</AA3>
+      <AA4>1365</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>5</AA2>
+      <AA3>558</AA3>
+      <AA4>1394</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>6</AA2>
+      <AA3>600</AA3>
+      <AA4>1386</AA4>
+      <AA5>7</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>N</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>7</AA2>
+      <AA3>602</AA3>
+      <AA4>1387</AA4>
+      <AA5>6</AA5>
+      <AA6>Script</AA6>
+      <AA7>NPC Norf</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>8</AA2>
+      <AA3>0</AA3>
+      <AA4>0</AA4>
+      <AA5>0</AA5>
+      <AA6>Script</AA6>
+      <AA7>Spiritual</AA7>
+      <AA8>None</AA8>
+      <AA9>false</AA9>
+    </P6>
+    <P6>
+      <AA2>9</AA2>
+      <AA3>601</AA3>
+      <AA4>1385</AA4>
+      <AA5>6</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>W</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>10</AA2>
+      <AA3>567</AA3>
+      <AA4>1390</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>11</AA2>
+      <AA3>532</AA3>
+      <AA4>1374</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>12</AA2>
+      <AA3>573</AA3>
+      <AA4>1324</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>13</AA2>
+      <AA3>598</AA3>
+      <AA4>1306</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>14</AA2>
+      <AA3>593</AA3>
+      <AA4>1267</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>15</AA2>
+      <AA3>577</AA3>
+      <AA4>1236</AA4>
+      <AA5>7</AA5>
+      <AA6>Use_Ground</AA6>
+      <AA7 />
+      <AA8>N</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>16</AA2>
+      <AA3>566</AA3>
+      <AA4>1234</AA4>
+      <AA5>6</AA5>
+      <AA6>Script</AA6>
+      <AA7>Go Edron</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>17</AA2>
+      <AA3>1431</AA3>
+      <AA4>788</AA4>
+      <AA5>6</AA5>
+      <AA6>Script</AA6>
+      <AA7>Go Cormaya</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>18</AA2>
+      <AA3>1544</AA3>
+      <AA4>980</AA4>
+      <AA5>6</AA5>
+      <AA6>Script</AA6>
+      <AA7>Go Eremo</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>19</AA2>
+      <AA3>1578</AA3>
+      <AA4>907</AA4>
+      <AA5>7</AA5>
+      <AA6>Script</AA6>
+      <AA7>Follow_Eremo</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>20</AA2>
+      <AA3>0</AA3>
+      <AA4>0</AA4>
+      <AA5>0</AA5>
+      <AA6>Script</AA6>
+      <AA7>Solitude</AA7>
+      <AA8>None</AA8>
+      <AA9>false</AA9>
+    </P6>
+    <P6>
+      <AA2>21</AA2>
+      <AA3>1549</AA3>
+      <AA4>983</AA4>
+      <AA5>6</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>S</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>22</AA2>
+      <AA3>1559</AA3>
+      <AA4>1003</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>23</AA2>
+      <AA3>1544</AA3>
+      <AA4>1027</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>24</AA2>
+      <AA3>1565</AA3>
+      <AA4>1021</AA4>
+      <AA5>7</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>N</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>25</AA2>
+      <AA3>1566</AA3>
+      <AA4>1021</AA4>
+      <AA5>8</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>E</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>26</AA2>
+      <AA3>1565</AA3>
+      <AA4>1021</AA4>
+      <AA5>9</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>N</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>27</AA2>
+      <AA3>1566</AA3>
+      <AA4>1021</AA4>
+      <AA5>10</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>E</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>28</AA2>
+      <AA3>1565</AA3>
+      <AA4>1021</AA4>
+      <AA5>11</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>N</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>29</AA2>
+      <AA3>1566</AA3>
+      <AA4>1021</AA4>
+      <AA5>12</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>E</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>30</AA2>
+      <AA3>1565</AA3>
+      <AA4>1021</AA4>
+      <AA5>13</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>N</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>31</AA2>
+      <AA3>1566</AA3>
+      <AA4>1021</AA4>
+      <AA5>14</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>E</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>32</AA2>
+      <AA3>1566</AA3>
+      <AA4>1013</AA4>
+      <AA5>15</AA5>
+      <AA6>Script</AA6>
+      <AA7>Go Kazordoon</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>33</AA2>
+      <AA3>915</AA3>
+      <AA4>982</AA4>
+      <AA5>15</AA5>
+      <AA6>Script</AA6>
+      <AA7>Buy Ticket</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>34</AA2>
+      <AA3>932</AA3>
+      <AA4>998</AA4>
+      <AA5>15</AA5>
+      <AA6>Use_Ground</AA6>
+      <AA7 />
+      <AA8>E</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>35</AA2>
+      <AA3>869</AA3>
+      <AA4>983</AA4>
+      <AA5>11</AA5>
+      <AA6>Map_Click</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>36</AA2>
+      <AA3>869</AA3>
+      <AA4>1015</AA4>
+      <AA5>11</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>S</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>37</AA2>
+      <AA3>899</AA3>
+      <AA4>1015</AA4>
+      <AA5>12</AA5>
+      <AA6>Script</AA6>
+      <AA7>Off PauseResume</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>38</AA2>
+      <AA3>900</AA3>
+      <AA4>994</AA4>
+      <AA5>12</AA5>
+      <AA6>Script</AA6>
+      <AA7>Phoenix 1</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>39</AA2>
+      <AA3>899</AA3>
+      <AA4>1016</AA4>
+      <AA5>12</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>40</AA2>
+      <AA3>870</AA3>
+      <AA4>1016</AA4>
+      <AA5>12</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>W</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>41</AA2>
+      <AA3>870</AA3>
+      <AA4>962</AA4>
+      <AA5>11</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>42</AA2>
+      <AA3>870</AA3>
+      <AA4>928</AA4>
+      <AA5>11</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>43</AA2>
+      <AA3>886</AA3>
+      <AA4>902</AA4>
+      <AA5>11</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>44</AA2>
+      <AA3>887</AA3>
+      <AA4>917</AA4>
+      <AA5>11</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>45</AA2>
+      <AA3>910</AA3>
+      <AA4>917</AA4>
+      <AA5>11</AA5>
+      <AA6>Script</AA6>
+      <AA7>Phoenix 1</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>46</AA2>
+      <AA3>886</AA3>
+      <AA4>917</AA4>
+      <AA5>11</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>47</AA2>
+      <AA3>885</AA3>
+      <AA4>900</AA4>
+      <AA5>11</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>48</AA2>
+      <AA3>869</AA3>
+      <AA4>922</AA4>
+      <AA5>11</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>49</AA2>
+      <AA3>869</AA3>
+      <AA4>945</AA4>
+      <AA5>11</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>50</AA2>
+      <AA3>882</AA3>
+      <AA4>944</AA4>
+      <AA5>11</AA5>
+      <AA6>Use_Ground</AA6>
+      <AA7 />
+      <AA8>E</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>51</AA2>
+      <AA3>870</AA3>
+      <AA4>923</AA4>
+      <AA5>9</AA5>
+      <AA6>Use_Ground</AA6>
+      <AA7 />
+      <AA8>E</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>52</AA2>
+      <AA3>863</AA3>
+      <AA4>860</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>53</AA2>
+      <AA3>893</AA3>
+      <AA4>819</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>54</AA2>
+      <AA3>932</AA3>
+      <AA4>789</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>55</AA2>
+      <AA3>951</AA3>
+      <AA4>748</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>56</AA2>
+      <AA3>951</AA3>
+      <AA4>741</AA4>
+      <AA5>7</AA5>
+      <AA6>Use_Ground</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>57</AA2>
+      <AA3>952</AA3>
+      <AA4>740</AA4>
+      <AA5>6</AA5>
+      <AA6>Use_Ground</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>58</AA2>
+      <AA3>951</AA3>
+      <AA4>741</AA4>
+      <AA5>5</AA5>
+      <AA6>Use_Ground</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>59</AA2>
+      <AA3>952</AA3>
+      <AA4>740</AA4>
+      <AA5>4</AA5>
+      <AA6>Use_Ground</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>60</AA2>
+      <AA3>951</AA3>
+      <AA4>741</AA4>
+      <AA5>3</AA5>
+      <AA6>Use_Ground</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>61</AA2>
+      <AA3>953</AA3>
+      <AA4>742</AA4>
+      <AA5>2</AA5>
+      <AA6>Script</AA6>
+      <AA7>Suns</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>62</AA2>
+      <AA3>951</AA3>
+      <AA4>742</AA4>
+      <AA5>2</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>N</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>63</AA2>
+      <AA3>952</AA3>
+      <AA4>741</AA4>
+      <AA5>3</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>N</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>64</AA2>
+      <AA3>952</AA3>
+      <AA4>741</AA4>
+      <AA5>4</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>W</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>65</AA2>
+      <AA3>952</AA3>
+      <AA4>741</AA4>
+      <AA5>5</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>N</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>66</AA2>
+      <AA3>952</AA3>
+      <AA4>741</AA4>
+      <AA5>6</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>W</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>67</AA2>
+      <AA3>938</AA3>
+      <AA4>779</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>68</AA2>
+      <AA3>889</AA3>
+      <AA4>777</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>69</AA2>
+      <AA3>836</AA3>
+      <AA4>779</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>70</AA2>
+      <AA3>770</AA3>
+      <AA4>778</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>71</AA2>
+      <AA3>717</AA3>
+      <AA4>773</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>72</AA2>
+      <AA3>668</AA3>
+      <AA4>773</AA4>
+      <AA5>7</AA5>
+      <AA6>Script</AA6>
+      <AA7>Off PauseResume</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>73</AA2>
+      <AA3>638</AA3>
+      <AA4>777</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>74</AA2>
+      <AA3>630</AA3>
+      <AA4>750</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>75</AA2>
+      <AA3>619</AA3>
+      <AA4>721</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>76</AA2>
+      <AA3>616</AA3>
+      <AA4>715</AA4>
+      <AA5>7</AA5>
+      <AA6>Use_Ground</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>77</AA2>
+      <AA3>615</AA3>
+      <AA4>710</AA4>
+      <AA5>6</AA5>
+      <AA6>Script</AA6>
+      <AA7>Follow</AA7>
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>78</AA2>
+      <AA3>0</AA3>
+      <AA4>0</AA4>
+      <AA5>0</AA5>
+      <AA6>Script</AA6>
+      <AA7>Embrace</AA7>
+      <AA8>None</AA8>
+      <AA9>false</AA9>
+    </P6>
+    <P6>
+      <AA2>79</AA2>
+      <AA3>616</AA3>
+      <AA4>714</AA4>
+      <AA5>6</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>S</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>80</AA2>
+      <AA3>618</AA3>
+      <AA4>728</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>81</AA2>
+      <AA3>610</AA3>
+      <AA4>758</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>82</AA2>
+      <AA3>597</AA3>
+      <AA4>786</AA4>
+      <AA5>7</AA5>
+      <AA6>Walk_Empty</AA6>
+      <AA7 />
+      <AA8>None</AA8>
+      <AA9>true</AA9>
+    </P6>
+    <P6>
+      <AA2>83</AA2>
+      <AA3>594</AA3>
+      <AA4>807</AA4>
+      <AA5>7</AA5>
+      <AA6>Stairs</AA6>
+      <AA7 />
+      <AA8>N</AA8>
+      <AA9>true</AA9>
+    </P6>
+  </P5>
+  <P7>
+    <P8>
+      <X>32361</X>
+      <Y>31689</Y>
+      <Z>7</Z>
+    </P8>
+    <P8>
+      <X>32361</X>
+      <Y>31688</Y>
+      <Z>7</Z>
+    </P8>
+    <P8>
+      <X>33310</X>
+      <Y>32000</Y>
+      <Z>7</Z>
+    </P8>
+  </P7>
+  <P9>
+    <Q0>
+      <X>32675</X>
+      <Y>31974</Y>
+      <Z>15</Z>
+    </Q0>
+    <Q0>
+      <X>32675</X>
+      <Y>31975</Y>
+      <Z>15</Z>
+    </Q0>
+    <Q0>
+      <X>32672</X>
+      <Y>31975</Y>
+      <Z>15</Z>
+    </Q0>
+    <Q0>
+      <X>32672</X>
+      <Y>31974</Y>
+      <Z>15</Z>
+    </Q0>
+    <Q0>
+      <X>32677</X>
+      <Y>31975</Y>
+      <Z>15</Z>
+    </Q0>
+    <Q0>
+      <X>32677</X>
+      <Y>31974</Y>
+      <Z>15</Z>
+    </Q0>
+    <Q0>
+      <X>32680</X>
+      <Y>31975</Y>
+      <Z>15</Z>
+    </Q0>
+    <Q0>
+      <X>32680</X>
+      <Y>31974</Y>
+      <Z>15</Z>
+    </Q0>
+    <Q0>
+      <X>32627</X>
+      <Y>31920</Y>
+      <Z>11</Z>
+    </Q0>
+    <Q0>
+      <X>32627</X>
+      <Y>31921</Y>
+      <Z>11</Z>
+    </Q0>
+    <Q0>
+      <X>32624</X>
+      <Y>31920</Y>
+      <Z>11</Z>
+    </Q0>
+    <Q0>
+      <X>32624</X>
+      <Y>31921</Y>
+      <Z>11</Z>
+    </Q0>
+    <Q0>
+      <X>32629</X>
+      <Y>31920</Y>
+      <Z>11</Z>
+    </Q0>
+    <Q0>
+      <X>32629</X>
+      <Y>31921</Y>
+      <Z>11</Z>
+    </Q0>
+    <Q0>
+      <X>32632</X>
+      <Y>31920</Y>
+      <Z>11</Z>
+    </Q0>
+    <Q0>
+      <X>32632</X>
+      <Y>31921</Y>
+      <Z>11</Z>
+    </Q0>
+    <Q0>
+      <X>32605</X>
+      <Y>31909</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32604</X>
+      <Y>31909</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32605</X>
+      <Y>31906</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32604</X>
+      <Y>31906</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32605</X>
+      <Y>31903</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32604</X>
+      <Y>31903</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32605</X>
+      <Y>31901</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32604</X>
+      <Y>31901</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32611</X>
+      <Y>31903</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32611</X>
+      <Y>31904</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32611</X>
+      <Y>31905</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32611</X>
+      <Y>31906</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32611</X>
+      <Y>31907</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32615</X>
+      <Y>31900</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32615</X>
+      <Y>31899</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32617</X>
+      <Y>31900</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32617</X>
+      <Y>31899</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32619</X>
+      <Y>31900</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32619</X>
+      <Y>31899</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32621</X>
+      <Y>31900</Y>
+      <Z>9</Z>
+    </Q0>
+    <Q0>
+      <X>32621</X>
+      <Y>31899</Y>
+      <Z>9</Z>
+    </Q0>
+  </P9>
+</P0>
